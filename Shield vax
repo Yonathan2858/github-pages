@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MOH ministry of health-shieldvax-enterprise</title>
+    </head>
+    <body bgcolor="black">
+        <span style="color: rgb(255, 255, 255);">
+        <header><img src="C:\Users\pc\OneDrive\Desktop\MOH.jpg"width="90"> MOH ministry of health ethiopia</header>
+        </span>
+        <span style="color: rgb(255, 255, 255);">
+        <h1>Shield Vax Enterprise!</h1>
+        </span>
+        <span style="color: rgb(30, 26, 83);">
+        <div style="width: 800px; margin: 0 auto; background-color: lightblue;">
+        <img src="https://www.fanamc.com/english/wp-content/uploads/2024/01/FB_IMG_17065396078415566.jpg"width="700"height="300">
+        <p>
+            <strong>Shield Vax Enterprise</strong>
+            is the<strong>First</strong> and the largest vaccine manufactury in<strong>Ethiopia</strong>
+        </p>
+        <p>
+            Addis Ababa, January 29, 2024 Health Minister, Lia Tadesse launched the ShieldVax Enterprise project at the Kilinto Industrial Park today.
+            </p>
+        <p>
+            During the launching ceremony, Minister Lia said that this is the tangible manifestation of the government of Ethiopia to ensure health for all, ENA reported.
+        </p>
+        <p>
+            According to Lia, ShieldVax enterprise is not confined only to local market but also with a great potential to reach the global market.
+        </p>
+        <p>
+            ShieldVax, which is one Ethiopia's public enterprises, will be pivotal in vaccine production in the region and the continent at large.
+        </p>
+        <p>
+            Developing local vaccine manufacturing capacity is one of Government of Ethiopia's priorities and the Ministry of Health is working with various stakeholders to achieve this goal, it was learned.
+        </p>
+        <p>
+            Kilinto Industrial Park is one of the 13 parks operating in Ethiopia that specializes in Pharmaceuticals.
+        </p>
+        <a href="https://www.fanabc.com/english/health-minister-lia-inaugurates-shieldvax-enterprise">
+            Fana tv says more about Shield Vax
+        </a>
+    </span>
+    </div>
+        <marquee scrollamount="7"><img src="C:\Users\pc\OneDrive\Desktop\MOH.jpg"width="300"></marquee>
+        <span style="color: aliceblue;">
+        <footer>
+            Moh Ethiopia
+        </footer>
+        <form>
+            First Name:<input type="text"><br/>
+            Last Name:<input type="text"><br/>
+            Phone Number:<input type="number"><br/>
+            Email:<input type="email"><br/>
+            Password:<input type="password"><br/>
+            Submit:<input type="button"><br/>
+        </span>
+        </form>
+    </body>
+</html>
